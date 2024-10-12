@@ -1,6 +1,8 @@
 To-Do List
 This is a simple To-Do List application that allows users to add, manage, and remove tasks. It helps to keep track of daily activities and stay organized. The project demonstrates basic concepts of web development.
+
 ---------------------------------------------------------------------------------------
+
 Features
 Add new tasks
 Mark tasks as completed
@@ -10,6 +12,7 @@ Technologies Used
 HTML
 CSS
 JavaScript 
+
 ------------------------------------------------------------------------------
 Demo
 Check out the live demo of the application here:
