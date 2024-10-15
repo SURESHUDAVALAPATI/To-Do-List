@@ -27,7 +27,7 @@ Check out the live demo of the application here:
 [To-Do List Demo](https://srs-to-do-list.netlify.app/)
 
 You can also watch a walkthrough of the project on YouTube:  
-[YouTube Walkthrough](https://www.youtube.com/watch?v=1WeZrGWhh9g)
+https://youtu.be/1WeZrGWth9c
 
 ---
 
