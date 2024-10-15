@@ -1,61 +1,54 @@
-To-Do List
+# To-Do List
 
-This is a simple To-Do List application that allows users to add, manage, and remove tasks. It helps to keep track of daily activities and stay organized. The project demonstrates basic concepts of web development.
+This is a simple **To-Do List** application that allows users to **add**, **manage**, and **remove tasks**. It helps to keep track of daily activities and stay organized. The project demonstrates basic concepts of web development.
 
----------------------------------------------------------------------------------------
+---
 
-Features
+## Features
 
-Add new tasks
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Persistent storage of tasks using local storage (or a backend, depending on implementation)
 
-Mark tasks as completed
+---
 
-Delete tasks
+## Technologies Used
 
-Persistent storage of tasks using local storage (or a backend, depending on implementation)
+- **HTML**
+- **CSS**
+- **JavaScript**
 
-Technologies Used
+---
 
-HTML
+## Demo
 
-CSS
+Check out the live demo of the application here:  
+[To-Do List Demo](https://srs-to-do-list.netlify.app/)
 
-JavaScript 
+You can also watch a walkthrough of the project on YouTube:  
+[YouTube Walkthrough](https://www.youtube.com/watch?v=1WeZrGWhh9g)
 
-------------------------------------------------------------------------------
-Demo
-Check out the live demo of the application here:
+---
 
-(https://srs-to-do-list.netlify.app/)
-
-You can also watch a walkthrough of the project on YouTube:
-
-(https://www.youtube.com/watch?v=1WeZrGWth9c)
-
-------------------------------------------------------------------------------
-To-Do
+## To-Do
 
 Here are some upcoming features and enhancements planned for future updates:
 
- Add priority levels for tasks (High, Medium, Low)
- 
- Implement a due date for tasks
- 
- Create user authentication for personalized task lists
- 
- Add search functionality for tasks
- 
- Improve the UI with additional styling
- 
- ------------------------------------------------------------------------------
+- Add priority levels for tasks (High, Medium, Low)
+- Implement a due date for tasks
+- Create user authentication for personalized task lists
+- Add search functionality for tasks
+- Improve the UI with additional styling
 
- 
-Contributing
+---
+
+## Contributing
 
 Feel free to fork this project, submit issues, or contribute by making pull requests. All contributions are welcome!
 
-------------------------------------------------------------------------------
-License
+---
 
-This project is open-source and available under the MIT License.
+## License
 
+This project is open-source and available under the **MIT License**.
